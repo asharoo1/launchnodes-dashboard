@@ -5,6 +5,8 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
 
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import 'semantic-ui-css/semantic.min.css';
 //
 import App from './App';
 import * as serviceWorker from './serviceWorker';
