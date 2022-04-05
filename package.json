@@ -4,7 +4,7 @@
   "licence": "MIT",
   "version": "1.2.0",
   "private": false,
-  "homepage": "http://asharoo1.github.io/ln-dashboard",
+  "homepage": "http://asharoo1.github.io/launchnodes-dashboard",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
