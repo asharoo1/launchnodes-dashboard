@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/launchnodes-dashboard/static/css/main.536ccd47.chunk.css",
+    "main.js": "/launchnodes-dashboard/static/js/main.caf7d4f7.chunk.js",
+    "main.js.map": "/launchnodes-dashboard/static/js/main.caf7d4f7.chunk.js.map",
+    "runtime-main.js": "/launchnodes-dashboard/static/js/runtime-main.90d97a21.js",
+    "runtime-main.js.map": "/launchnodes-dashboard/static/js/runtime-main.90d97a21.js.map",
+    "static/css/2.dd3882bd.chunk.css": "/launchnodes-dashboard/static/css/2.dd3882bd.chunk.css",
+    "static/js/2.b0bd5a8e.chunk.js": "/launchnodes-dashboard/static/js/2.b0bd5a8e.chunk.js",
+    "static/js/2.b0bd5a8e.chunk.js.map": "/launchnodes-dashboard/static/js/2.b0bd5a8e.chunk.js.map",
+    "static/js/3.44141479.chunk.js": "/launchnodes-dashboard/static/js/3.44141479.chunk.js",
+    "static/js/3.44141479.chunk.js.map": "/launchnodes-dashboard/static/js/3.44141479.chunk.js.map",
+    "index.html": "/launchnodes-dashboard/index.html",
+    "static/css/2.dd3882bd.chunk.css.map": "/launchnodes-dashboard/static/css/2.dd3882bd.chunk.css.map",
+    "static/css/main.536ccd47.chunk.css.map": "/launchnodes-dashboard/static/css/main.536ccd47.chunk.css.map",
+    "static/js/2.b0bd5a8e.chunk.js.LICENSE.txt": "/launchnodes-dashboard/static/js/2.b0bd5a8e.chunk.js.LICENSE.txt",
+    "static/media/LaunchnodesLogo.71240307.png": "/launchnodes-dashboard/static/media/LaunchnodesLogo.71240307.png",
+    "static/media/semantic.min.css": "/launchnodes-dashboard/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d97a21.js",
+    "static/css/2.dd3882bd.chunk.css",
+    "static/js/2.b0bd5a8e.chunk.js",
+    "static/css/main.536ccd47.chunk.css",
+    "static/js/main.caf7d4f7.chunk.js"
+  ]
+}
