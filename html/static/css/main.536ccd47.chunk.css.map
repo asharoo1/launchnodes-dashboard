@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAOA,KACE,WAAY,CACZ,wBACF,CACA,WACE,gBACF","file":"main.536ccd47.chunk.css","sourcesContent":["/* html,\nbody{\n  background-color: #e5efff;\n  text-align: center;\n} */\n/* html,\nbody, */\n.App {\n  height: 100%;\n  background-color: #e5efff;\n}\n.inputForm {\n  padding-top: 20px;\n}\n"]}
